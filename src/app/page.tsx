@@ -70,7 +70,7 @@ export default function LandingPage() {
       avatarText="Trusted by 10,000+ Texas residents"
       buttons={[
         {
-          text: "Schedule Your Visit Today",          href: "#contact"},
+          text: "Book Your Free Consultation",          href: "#contact"},
       ]}
       marqueeItems={[
         {
